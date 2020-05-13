@@ -1,0 +1,26 @@
+/* ================================= 
+  Global
+==================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html,
+#root,
+.home {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+#root {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fff;
+  font-size: 1rem;
+}
